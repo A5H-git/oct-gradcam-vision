@@ -49,7 +49,7 @@ Some fun images from the notebook:
 <p align="center">
   <img src="./docs/images/ResNet50_Finetuned_Sample.png">
 </p>
-<p align="center"><em>Fig 4. Grad-CAM from fine-tuned ResNet50, with stronger localization of retinal features.</em></p>
+<p align="center"><em>Figure 4. Grad-CAM from fine-tuned ResNet50, with stronger localization of retinal features.</em></p>
 
 #### ViT (From Scratch)
 <p align="center">
