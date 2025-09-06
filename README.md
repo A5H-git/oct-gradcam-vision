@@ -7,7 +7,7 @@ This project started as a curiosity:
 
 Using the [**OCT2017 retinal dataset**](https://data.mendeley.com/datasets/rscbjbr9sj/2), I trained and visualized different vision architectures to better understand what they "see" during classification. While performance benchmarking was not the focus, the main goal was **interpretability**: comparing how ResNet and ViT attend to retinal structures, and how methods like **Grad-CAM** can help us peek into a model’s reasoning.
 
-👉 For full rambling check out [`docs/vision.ipynb`](docs/vision.ipynb) 👈
+👉 For full ramblings check out [`docs/vision.ipynb`](docs/vision.ipynb) 👈
 
 
 ## Highlights
